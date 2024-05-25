@@ -1,0 +1,53 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "username": "touchworld",
+      "password": "touchworldTech"
+    }
+  ],
+  "users": [
+    {
+      "employeeName": "Ajith",
+      "contactNumber": "9451278562",
+      "email": "ajith@gmail.com",
+      "address": "ajith villa",
+      "id": "HesAQu-"
+    },
+    {
+      "employeeName": "Max",
+      "contactNumber": "785496321",
+      "email": "max@gmail.com",
+      "address": "Max House",
+      "id": "D0p-tK0"
+    },
+    {
+      "employeeName": "David",
+      "contactNumber": "788965452",
+      "email": "david@gmail.com",
+      "address": "Robert Robertson, 1234 NW Bobcat Lane,, MO 65584-5678., 1234 NW Bobcat Lane, ",
+      "id": "feUPwJu"
+    },
+    {
+      "employeeName": "Alan",
+      "contactNumber": "47852231",
+      "email": "alan@gmail.com",
+      "address": "Mr Alan. 132, My Street, Kingston, New York 12401.",
+      "id": "z1xWN0A"
+    },
+    {
+      "employeeName": "John",
+      "contactNumber": "785421648",
+      "email": "john@gmail.com",
+      "address": "Mr John Smith. 122, My Street, Kingston, USA 45785.",
+      "id": "tOABru8"
+    },
+    {
+      "employeeName": "Milan",
+      "contactNumber": "47852231",
+      "email": "milan@gmail.com",
+      "address": "Mr Milan. 132, My Street, Kingston, New York 12401.",
+      "id": "_O-vD-U"
+    }
+  ]
+}
